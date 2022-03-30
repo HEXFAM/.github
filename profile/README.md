@@ -2,9 +2,9 @@
   <img src="https://cdn.discordapp.com/attachments/844973689292193824/951401830146015232/unknown.png" alt="HexTeamBanner" />
 </p>
 
-This organisation contains all of the relevant repositories for the [HxTM](https://hextm.com).
+> **This Organisation Contains All Of The Relevant Repositories For The [HxTM](https://hextm.com).**
 
-## Links
+### Links
 
 - ### [🌍 Website](https://hextm.com): The HxTM website
 - ### [✨ Instagramt](https://instagram.com/hxtm): Official HxTM instagram
