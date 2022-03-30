@@ -1,4 +1,4 @@
-![Banner](Banner.jpg)
+![Banner](https://cdn.discordapp.com/attachments/844973689292193824/958644256694759454/Banner.jpg)
 
 > **This Organisation Contains All Of The Relevant Repositories For The [HxTM](https://hextm.com).**
 
