@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="HEX.jpg" />
-</p>
+![Banner](HEX.jpg)
 
 > **This Organisation Contains All Of The Relevant Repositories For The [HxTM](https://hextm.com).**
 
